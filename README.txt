@@ -1,1 +1,1 @@
-my project
+print('Hello world')
